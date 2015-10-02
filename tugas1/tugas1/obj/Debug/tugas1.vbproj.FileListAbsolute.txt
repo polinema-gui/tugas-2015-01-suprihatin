@@ -1,0 +1,10 @@
+c:\users\atthyn-pc\documents\visual studio 2013\Projects\tugas1\tugas1\bin\Debug\tugas1.exe.config
+c:\users\atthyn-pc\documents\visual studio 2013\Projects\tugas1\tugas1\bin\Debug\tugas1.exe
+c:\users\atthyn-pc\documents\visual studio 2013\Projects\tugas1\tugas1\bin\Debug\tugas1.pdb
+c:\users\atthyn-pc\documents\visual studio 2013\Projects\tugas1\tugas1\bin\Debug\tugas1.xml
+c:\users\atthyn-pc\documents\visual studio 2013\Projects\tugas1\tugas1\obj\Debug\tugas1.Form1.resources
+c:\users\atthyn-pc\documents\visual studio 2013\Projects\tugas1\tugas1\obj\Debug\tugas1.Resources.resources
+c:\users\atthyn-pc\documents\visual studio 2013\Projects\tugas1\tugas1\obj\Debug\tugas1.vbproj.GenerateResource.Cache
+c:\users\atthyn-pc\documents\visual studio 2013\Projects\tugas1\tugas1\obj\Debug\tugas1.exe
+c:\users\atthyn-pc\documents\visual studio 2013\Projects\tugas1\tugas1\obj\Debug\tugas1.xml
+c:\users\atthyn-pc\documents\visual studio 2013\Projects\tugas1\tugas1\obj\Debug\tugas1.pdb
